@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.1e4f1ff07dea774b4396067db7005287.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.e54d54da8a62a27a874f6e5cd2c7c22e.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.7548c9579c33631a27ac0f9e570eae95.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.8356ee675a1509e33f8bebe57bb2c311.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.f61a64ea85ff5181c8fcb0ac733f8998.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "ICHOCO",
+  "short_name": "ICHOCO",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Carinho em forma de presente!\n\nCestas, caixas surpresas, cestas de presentes, cesta de flores, cestas de chocolates. Tudo feito respeitando os protocolos de segurança.\n\nSurpreenda quem você ama!\n",
+  "background_color": "#ffffff",
+  "theme_color": "#400c04"
+}
